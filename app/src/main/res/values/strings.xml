@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">guess</string>
+    <string name="information">Kindly select a number of digits.
+The number of digits that I keep in my mind and
+the number of digits you choose will be the same. Also,
+do not forget that you have 10 chances.
+    </string>
+</resources>
